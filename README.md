@@ -3,4 +3,3 @@ This is repository containing the MCMC code which I wrote in my master's thesis 
 
 To run this code, I used a module written by my supervisor, Dr. Surhud More. Detailed instructions on downloading and installing this module, including its documentation can be found here: http://surhudm.github.io/aum/install.html# 
 
-<img src="https://latex.codecogs.com/gif.latex?O_t=\text {\Omega_m} " /> 
